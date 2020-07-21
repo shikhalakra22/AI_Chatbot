@@ -3,6 +3,8 @@ Deep Learning based Chatbot.
 
 The implementation of chatbot using NMT - Neural Machine Translation (seq2seq).
 
+here is the NMT documentation [a link]:https://github.com/tensorflow/nmt
+
 
 Below are the graphical representation of chatbot features.
 
